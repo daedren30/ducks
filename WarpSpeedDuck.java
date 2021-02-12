@@ -8,5 +8,5 @@ public class WarpSpeedDuck extends Duck {
         System.out.println("Lightspeed duck displayed");
     }
     
-    }  
-}
+}  
+
