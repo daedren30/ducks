@@ -32,5 +32,11 @@ class MiniDuckSimulator {
     pd.performQuack();
     pd.swim();
 
+    System.out.println("===================");
+    Duck wsd = new WarpSpeedDuck();
+    wsd.display();
+    wsd.performQuack();
+    wsd.swim();
+
   }
 }
